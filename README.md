@@ -27,8 +27,8 @@ The entire texts in the images will be displayed to the users along with the sou
 
 ![Screenshot_20210426_123211](https://user-images.githubusercontent.com/43011442/116042833-83b15000-a68c-11eb-9816-0b4eeda78d34.png)
 
-# Result (converted text & source image)z
+# Result (converted text & source image)
 
-<img width="398" alt="Screenshot_20210426_123227" src="https://user-images.githubusercontent.com/43011442/116043427-439e9d00-a68d-11eb-9b50-6d7dbce5b07e.png">
+<img width="498" alt="Screenshot_20210426_123227" src="https://user-images.githubusercontent.com/43011442/116043427-439e9d00-a68d-11eb-9b50-6d7dbce5b07e.png">
 
-<img width="397" alt="Screenshot_20210426_123231" src="https://user-images.githubusercontent.com/43011442/116043434-4600f700-a68d-11eb-9c0b-4e0828e718ee.png">
+<img width="497" alt="Screenshot_20210426_123231" src="https://user-images.githubusercontent.com/43011442/116043434-4600f700-a68d-11eb-9c0b-4e0828e718ee.png">
