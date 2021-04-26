@@ -24,3 +24,11 @@ The entire texts in the images will be displayed to the users along with the sou
 ![Screenshot_20210426_123132](https://user-images.githubusercontent.com/43011442/116042763-6b413580-a68c-11eb-8f0e-507ea471191a.png)
 
 # Crop Images
+
+![Screenshot_20210426_123211](https://user-images.githubusercontent.com/43011442/116042833-83b15000-a68c-11eb-9816-0b4eeda78d34.png)
+
+# Result (converted text & source image)
+
+![Screenshot_20210426_123227](https://user-images.githubusercontent.com/43011442/116042852-890e9a80-a68c-11eb-86fa-c5eae0d25d35.png)
+
+![Screenshot_20210426_123231](https://user-images.githubusercontent.com/43011442/116042889-96c42000-a68c-11eb-9738-424c3d6c0322.png)
